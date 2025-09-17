@@ -1,6 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hey, I’m <a href="https://github.com/agoodusernam">agoodusernam</a> 👋</h1>
-<p align="center">
+<p>
   <b>I build things for fun and to learn cool stuff</b>
 </p>
 
