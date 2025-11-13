@@ -7,7 +7,7 @@
 
 ## About me
 
-- 🌱 I’m learning to be a developer in Python and exploring cryptography.
+- 🌱 I’m learning to be a better developer in Python and exploring cryptography.
 - 🧪 I like building stuff to understand how things work.
 - 🔭 I’m currently working on:
   - A Discord bot: [FoxBot](https://github.com/agoodusernam/FoxBot)
