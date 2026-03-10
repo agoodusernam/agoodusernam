@@ -23,7 +23,7 @@
   - A discord bot for my friend's discord server using discord.py.
   - Repo: [agoodusernam/FoxBot](https://github.com/agoodusernam/FoxBot)
 
-- shitass‑PQ‑chat — E2E Chat that uses post‑quantum cryptography
+- shitass‑PQ‑chat — E2EE Chat that uses post‑quantum cryptography
   - Playing with PQC and end-to-end encryption in Python.
   - Probably don't use it for anything important, it hasn't gone through any kind of security testing
   - Repo: [agoodusernam/shitass-PQ-chat](https://github.com/agoodusernam/shitass-PQ-chat)
